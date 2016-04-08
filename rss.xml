@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gomteshupadhye]]></title>
         <description><![CDATA[gomteshupadhye]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gomteshupadhye/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 13:49:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 14:39:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gomteshupadhye/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pallivalu bhadravattakam - A Musical Tribute to Women]]></title>
+            <description><![CDATA[<article><h1>Pallivalu bhadravattakam - A Musical Tribute to Women</h1><p>Pallivalu bhadravattakam is a Music Video celebrating womanhood. A Malayalam Folklore Depicting Godess Kali fighting over evil . Music direction and arrangements by Sanjeev Thomas with lead vocals by Sayanora Philip. The video has been shot in the beautiful state of Karnataka and the climax in Kerala.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/887ca8c9f83e0a3c3f9ae15b3e1e15bd682f2772.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=dqXZlHp9uRQ</link>
+            <guid isPermaLink="false">a5b6649d-e2c7-4ebc-be37-2743dc9a9f20</guid>
+            <pubDate>Fri, 08 Apr 2016 14:39:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf194347-54a4-4ec0-85c6-e86c1b83929a.jpg">]]></description>
-            <link>undefinedsite-coming-soon/index.html</link>
+            <link>https://thegrid.ai/gomteshupadhye/site-coming-soon/index.html</link>
             <guid isPermaLink="false">be961250-23cc-41d2-99d1-835977fe3178</guid>
             <pubDate>Fri, 08 Apr 2016 13:49:28 GMT</pubDate>
         </item>
